@@ -1,5 +1,7 @@
 # Pixel Art Grid & Palette Generator
 
+![Project Preview](./preview.png)
+
 An online tool designed for pixel art enthusiasts to quickly generate an enlarged preview image with a grid and color palette for your pixel art creations (e.g., 16x16, 32x32), with support for adding custom watermarks.
 
 This project is based on a pure front-end implementation. All image processing is done in the user's browser, ensuring speed and user data privacy.
